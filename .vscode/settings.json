@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Portfolio blockouts.sln"
+    "dotnet.defaultSolution": "Portfolio-blockout.sln"
 }
